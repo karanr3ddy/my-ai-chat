@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "@langchain/openai": "^0.0.12",
+    "flowbite": "^2.2.1",
+    "flowbite-react": "^0.7.2",
     "langchain": "0.0.207",
+    "lodash": "^4.17.21",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
