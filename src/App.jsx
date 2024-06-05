@@ -10,7 +10,7 @@ import './App.css'
 function App() {
 
   const chatModel = new ChatOpenAI({
-    openAIApiKey: "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",
+    openAIApiKey: "ENTER-YOUR-KEY",
   });
 
   const [messages, setMessages] = useState();
